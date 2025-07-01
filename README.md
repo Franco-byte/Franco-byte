@@ -1,16 +1,16 @@
-<h1 align="center">¡Hola! Bienvenido a mi perfil de GitHub</h1>
+<h1 align="center">Hi! Welcome to my GitHub Profile</h1>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FFC8&center=true&vCenter=true&width=600&lines=%3E+Soy+Franco+Reyes;Desarrollador+Full+Stack+en+formación;Python+%7C+C+%7C+C%23+%7C+Typescript+%7C+React)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FFC8&center=true&vCenter=true&width=600&lines=%3E+I'm+Franco+Reyes;Full+Stack+Developer+in+training;Python+%7C+C+%7C+C%23+%7C+Typescript+%7C+React)
 
 </div>
 
-<h3 align="center">🌍 Desde Uruguay | Estudiante en Holberton School | En búsqueda de mi próximo desafío</h3>
+<h3 align="center">🌍 Based in Uruguay | Holberton School student | Seeking my next challenge</h3>
 
 ---
 
-<h3 align="center">Contacto</h3>
+<h3 align="center">Contact</h3>
 
 <div align="center">
 
@@ -18,13 +18,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francoreyesortiz)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reyco_31)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/426150159336865792)
-<!--[![Portfolio](https://img.shields.io/badge/Portafolio-333333?style=for-the-badge&logo=about.me&logoColor=white)](https://tusitio.dev)-->
 
 </div>
 
 ---
 
-<h3 align="center">Tecnologías que uso</h3>
+<h3 align="center">Technologies I use</h3>
 
 <div align="center">
 
@@ -67,9 +66,9 @@
 
 ---
 
-<h3 align="center">Sobre mi</h3>
+<h3 align="center">About me</h3>
 
-Desarrollador en formación con fuerte interés por el desarrollo full stack, la experiencia de usuario y el aprendizaje continuo. Apasionado por crear cosas desde cero y entender a fondo cómo funcionan. Actualmente enfocado en crecer profesionalmente y aportar valor a proyectos reales.
+Full stack developer in training with a strong interest in user experience, creative problem solving and continuous learning. Passionate about building things from scratch and understanding how they work. Currently focused on growing professionally and contributing to meaningful projects.
 
 ---
 
@@ -82,6 +81,5 @@ Desarrollador en formación con fuerte interés por el desarrollo full stack, la
 <br />
 
 <p align="center">
-  🗓️ <i>Actualizado en junio 2025</i>
+  🗓️ <i>Updated in June 2025</i>
 </p>
-
